@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -164,7 +164,8 @@
     <!-- Contact Section -->
     <section id="contact" class="contact">
         <h2>Contact Us</h2>
-        <p>Email: support@aiassistant.com</p>
+        <p>Email: eyob0081@gmail.com</p>
+        <p>phone number : 0985754689 </p>
     </section>
 
     <!-- Footer -->
